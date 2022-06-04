@@ -1,4 +1,4 @@
-### Olá! Bem vindo(a) ao meu GitHub.
+### Hello! Welcome to my GitHub page.
 
 <div align="left">
   <a href="https://github.com/caiomtls">
