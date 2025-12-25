@@ -7,7 +7,17 @@ Embora eu tenha uma base sólida na geração de insights para negócios, perceb
 
 ---
 
-### 🚀 O que trago para o time
+### 📊 Estatísticas do meu GitHub
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiomtls&theme=tokyonight" height="180" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiomtls&theme=tokyonight" height="180" alt="languages" />
+</p>
+
+
+---
+
+### 🚀 O que proporciono
 *   **Visão Híbrida:** Por trabalhar como Analista, eu sei exatamente como construir um Data Warehouse que os usuários finais e stakeholders realmente conseguem usar.
 *   **Fundamentação Técnica:** Meu bacharelado em Computação me garante a base teórica de algoritmos e estruturas de dados.
 *   **Perfil Focado:** Tenho facilidade com tarefas que exigem concentração profunda, como modelagem de dados e otimização de queries.
@@ -26,14 +36,6 @@ Embora eu tenha uma base sólida na geração de insights para negócios, perceb
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-orange?style=for-the-badge)
-
----
-
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[caiomtls]&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[caiomtls]&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="languages" />
-</p>
 
 ---
 
