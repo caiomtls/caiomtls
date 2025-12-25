@@ -10,8 +10,8 @@ Embora eu tenha uma base sólida na geração de insights para negócios, perceb
 ### 📊 Estatísticas do meu GitHub
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiomtls&theme=tokyonight" height="180" alt="profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiomtls&theme=tokyonight" height="180" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiomtls&theme=tokyonight" height="140" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiomtls&theme=tokyonight" height="140" alt="languages" />
 </p>
 
 
