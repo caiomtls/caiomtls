@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio. Seja bem-vindo(a) ao meu GitHub! 👋
+# Olá, seja bem-vindo(a) ao meu GitHub!
 ### 🎓 Cientista da Computação | 📊 Analista de Dados | 🛠️ Futuro Engenheiro de Dados
 
 Atualmente atuo como Analista de Dados e sou bacharel em **Ciência da Computação**, mas meu foco agora é a transição de carreira para **Engenharia de Dados**.
@@ -10,8 +10,8 @@ Embora eu tenha uma base sólida na geração de insights para negócios, perceb
 ### 📊 Estatísticas do meu GitHub
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiomtls&theme=tokyonight" height="140" alt="profile details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiomtls&theme=tokyonight" height="140" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiomtls&theme=tokyonight" height="145" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiomtls&theme=tokyonight" height="145" alt="languages" />
 </p>
 
 
